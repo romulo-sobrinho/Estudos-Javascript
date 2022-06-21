@@ -9,7 +9,8 @@ let employees = [
   new employee("Ana Luiza", 10000, 30),
   new employee("Maria Cecília", 8000, 24),
   new employee("Miguel Henrique", 9000, 32),
-  new employee("Maria Lívia", 11000, 29)
+  new employee("Maria Lívia", 11000, 29),
+  new employee("Julia Leitícia", 7000, 25)
 ];
 
 function ageLess25(employee) {
