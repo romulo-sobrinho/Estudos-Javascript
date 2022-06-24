@@ -14,8 +14,12 @@
 ## Features
 
   ### Javascript
-  #### Higher Order Functions
   ✔️ Método filter <br>
+  ✔️ Método map <br>
+  ✔️ Método reduce <br>
+  ✔️ Destructuring <br>
+     Callback <br>
+     Promises <br>
 
   
 ## Preview
