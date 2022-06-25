@@ -18,7 +18,7 @@
   ✔️ Método map <br>
   ✔️ Método reduce <br>
   ✔️ Destructuring <br>
-     Callback <br>
+  ✔️ Callback <br>
      Promises <br>
 
   
